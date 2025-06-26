@@ -1,0 +1,18 @@
+h1 {
+color:rgb(255, 146, 197);
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+}
+p{
+color: wheat;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial,
+sans-serif;
+font-size: 24px;
+}
+body{
+background-color: rgb(92, 16, 116);
+}
+img{
+    width: 200px;
+    height: 180px;
+}
